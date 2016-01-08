@@ -1,7 +1,7 @@
 # TicTacToev1
 Mark's minimal experience, first game
 
-# developer's note
+# Developer's note
 
 Please take caution when viewing this project's source code as this was my first real 
 programming project.
@@ -11,6 +11,3 @@ a great base for me to compare my past to my current programming sytles and tech
 
 Quite frankly, I am still quite proud of this nerve racking project, because with the
 experiece I had at the time, it was quite the feat :)
-
-# how to use
-java TicTacToev1
